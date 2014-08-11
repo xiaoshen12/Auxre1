@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+i love apple ,apple is red
+
+i hate apple ,apple is green
+=======
+you can not use chinese, or disappear messy code
+>>>>>>> origin/master
+
+
+use Amyshen12 to update the xiaoshen12
